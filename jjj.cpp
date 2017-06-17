@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     vector< int > x;
+    int change=78;
     x.push_back(6);
     x.push_back(8);
 
@@ -20,5 +21,5 @@ int main()
     arr[i]=77;
     //clrscr();
     return 0;
-    
+
 }
